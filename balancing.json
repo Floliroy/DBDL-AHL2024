@@ -2,7 +2,7 @@
   "Name": "DBDL - All Hallows League 2024",
   "Version": 1726941449,
   "MaxPerkRepetition": 1,
-  "GlobalNotes": "Maps for each killer will be selected with a pick & ban. Check the DBDLeague discord to get list of available maps.",
+  "GlobalNotes": "Maps for each killer will be selected using a pick & ban system. Check the DBDLeague Discord to get the list of all available maps.",
   "Tiers": [
     {
       "Name": "General",
