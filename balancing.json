@@ -1,6 +1,6 @@
 {
   "Name": "DBDL - All Hallows League 2024",
-  "Version": 1726941449,
+  "Version": 1728984072866,
   "MaxPerkRepetition": 1,
   "GlobalNotes": "Maps for each killer will be selected using a pick & ban system. Check the DBDLeague Discord to get the list of all available maps.",
   "Tiers": [
@@ -24,12 +24,12 @@
         "74",
         "84",
         "86",
+        "88",
         "90",
         "98",
         "108",
         "126",
-        "254",
-        "88"
+        "254"
       ],
       "KillerIndvPerkBans": ["134", "150", "155", "163", "175", "178", "205"],
       "SurvivorComboPerkBans": [["67","76"],["67","58"]],
