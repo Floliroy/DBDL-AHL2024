@@ -28,7 +28,8 @@
         "98",
         "108",
         "126",
-        "254"
+        "254",
+        "88"
       ],
       "KillerIndvPerkBans": ["134", "150", "155", "163", "175", "178", "205"],
       "SurvivorComboPerkBans": [["67","76"],["67","58"]],
@@ -137,7 +138,7 @@
       "BalanceTiers": [0],
       "SurvivorBalanceTiers": [0],
       "AntiFacecampPermitted": false,
-      "KillerIndvPerkBans": ["216"],
+      "KillerIndvPerkBans": ["216", "211"],
       "KillerComboPerkBans": [],
       "SurvivorIndvPerkBans": [],
       "SurvivorComboPerkBans": [],
@@ -647,7 +648,7 @@
       "BalanceTiers": [0],
       "SurvivorBalanceTiers": [0],
       "AntiFacecampPermitted": false,
-      "KillerIndvPerkBans": ["216"],
+      "KillerIndvPerkBans": ["216", "211"],
       "KillerComboPerkBans": [],
       "SurvivorIndvPerkBans": [],
       "SurvivorComboPerkBans": [],
